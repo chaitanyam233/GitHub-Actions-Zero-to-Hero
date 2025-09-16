@@ -2,7 +2,7 @@ name: My First GitHub Actions
 
 on: [push]
 
-jobs:
+jobs: 
   build:
     runs-on: self-hosted
 
